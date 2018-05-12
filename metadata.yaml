@@ -1,0 +1,36 @@
+_repo: The-Art-of-Letters_13764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lynd, Robert
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '4450'
+    url: http://www.gutenberg.org/2009/agents/4450
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Wilson_Lynd
+description: ''
+gutenberg_issued: '2004-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism -- Great Britain'
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+tableOfContents: 'Mr. Pepys -- John Bunyan -- Thomas Campion -- John Donne -- Horace
+  Walpole -- William Cowper -- A note on Elizabethan plays -- The office of the poets
+  -- Edward Young as critic -- Gray and Collins -- Aspects of Shelley -- The wisdom
+  of Coleridge -- Tennyson: a temporary criticism -- The politics of Swift and Shakespeare
+  -- The personality of Morris -- George Meredith -- Oscar Wilde -- Two English critics:
+  Mr. Saintsbury. Mr. Gosse -- An American critic: Professor Irving Babbit -- Georgians
+  -- Labour of authorship -- The theory of poetry -- The critic as destroyer -- Book
+  reviewing.'
+title: The Art of Letters
+url: http://www.gutenberg.org/ebooks/13764
